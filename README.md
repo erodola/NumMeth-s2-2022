@@ -4,6 +4,7 @@ Materiale del corso, 2o semestre a.a. 2021/2022, Dip. di Informatica
 
 ### News
 
+- **26/02/2022:** Si prega di scrivere a rodola@di.uniroma1.it per confermare la propria partecipazione al corso. **Leggere in basso per importanti informazioni logistiche sulle prime lezioni!**
 - **20/02/2022:** Il corso avrà inizio il **2 marzo 2022**.
 
 ### Logistica
@@ -16,9 +17,16 @@ Materiale del corso, 2o semestre a.a. 2021/2022, Dip. di Informatica
 
 **Dove:**
 
-**Le prime lezioni saranno tenute in modalità virtuale.**
+**Per imprevisti problemi logistici, le prime lezioni seguiranno il seguente formato:**
 
-Link: [Zoom](https://zoom.us/j/4752349941?pwd=U0doeGFLWFFDSWlzWWxvd0JGMDRndz09), Meeting ID: 475 234 9941, Passcode: 3K7xrM.
+- **Mer 02 Marzo**: Lezione registrata e messa a disposizione su questo sito. Nessuna lezione in presenza.
+- **Gio 03 Marzo**: Lezione registrata e messa a disposizione su questo sito. Nessuna lezione in presenza.
+- **Mer 09 Marzo**: Esercitazione dal vivo, in Aula G50 Edificio RM115.
+- **Gio 10 Marzo**: Lezione registrata e messa a disposizione su questo sito. Nessuna lezione in presenza.
+- **Mer 16 Marzo**: Esercitazione dal vivo, in Aula G50 Edificio RM115.
+- **Gio 17 Marzo**: Lezione registrata e messa a disposizione su questo sito. Nessuna lezione in presenza.
+
+Le lezioni successive saranno tutte tenute in presenza, salvo diverse disposizioni da parte dell'Ateneo.
 
 ### Lezioni
 
