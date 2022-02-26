@@ -4,7 +4,10 @@ Materiale del corso, 2o semestre a.a. 2021/2022, Dip. di Informatica
 
 ### News
 
-- **26/02/2022:** Si prega di scrivere a rodola@di.uniroma1.it per confermare la propria partecipazione al corso. **Leggere in basso per importanti informazioni logistiche sulle prime lezioni!**
+- **26/02/2022:** Si prega di scrivere a rodola@di.uniroma1.it per confermare la propria partecipazione al corso. 
+
+<ins>**Leggere in basso per importanti informazioni logistiche sulle prime lezioni!**</ins>
+
 - **20/02/2022:** Il corso avrà inizio il **2 marzo 2022**.
 
 ### Logistica
@@ -33,3 +36,4 @@ Le lezioni successive saranno tutte tenute in presenza, salvo diverse disposizio
 **Data** | **Argomento** | **Letture** | **Codice & Dati**
 ------------ | ------------- | ------------ | ------------
 Mer 02 Mar | Introduzione |  |
+Gio 03 Mar | Preliminari di algebra lineare |  |
