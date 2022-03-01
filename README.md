@@ -33,7 +33,7 @@ Le lezioni successive saranno tutte tenute in presenza, salvo diverse disposizio
 
 ### Lezioni
 
-Link al libro di testo: [pdf](https://people.csail.mit.edu/jsolomon/share/book/numerical_book.pdf) | [amazon](https://www.amazon.com/Numerical-Methods-Computer-Learning-Graphics/dp/1482251884)
+Link al libro di testo: [pdf](https://people.csail.mit.edu/jsolomon/share/book/numerical_book.pdf) ; [amazon](https://www.amazon.com/Numerical-Methods-Computer-Learning-Graphics/dp/1482251884)
 
 **Data** | **Argomento** | **Letture** | **Codice & Dati**
 ------------ | ------------- | ------------ | ------------
