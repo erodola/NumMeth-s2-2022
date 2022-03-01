@@ -37,5 +37,5 @@ Link al libro di testo: [pdf](https://people.csail.mit.edu/jsolomon/share/book/n
 
 **Data** | **Argomento** | **Letture** | **Codice & Dati**
 ------------ | ------------- | ------------ | ------------
-Mer 02 Mar | Introduzione |  |
+Mer 02 Mar | Introduzione | [slides](https://github.com/erodola/NumMeth-s2-2022/raw/main/01_intro/01-intro.pdf) ; [video](https://youtu.be/EoPIPTeEGjY) |
 Gio 03 Mar | Preliminari di algebra lineare |  |
