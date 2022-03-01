@@ -38,4 +38,4 @@ Link al libro di testo: [pdf](https://people.csail.mit.edu/jsolomon/share/book/n
 **Data** | **Argomento** | **Letture** | **Codice & Dati**
 ------------ | ------------- | ------------ | ------------
 Mer 02 Mar | Introduzione | [slides](https://github.com/erodola/NumMeth-s2-2022/raw/main/01_intro/01-intro.pdf) ; [video](https://youtu.be/EoPIPTeEGjY) |
-Gio 03 Mar | Preliminari di algebra lineare | [slides](https://github.com/erodola/NumMeth-s2-2022/raw/main/02_linalg/02-linalg.pdf) ; [matrix notes](https://github.com/erodola/NumMeth-s2-2022/raw/main/02_linalg/02b-matrix.pdf) ; [video - to come] |
+Gio 03 Mar | Preliminari di algebra lineare | [slides](https://github.com/erodola/NumMeth-s2-2022/raw/main/02_linalg/02-linalg.pdf) ; [matrix notes](https://github.com/erodola/NumMeth-s2-2022/raw/main/02_linalg/02b-matrix.pdf) ; [video](https://youtu.be/E02vV2wR888) |
