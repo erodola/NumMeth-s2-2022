@@ -24,9 +24,9 @@ Materiale del corso, 2o semestre a.a. 2021/2022, Dip. di Informatica
 
 - **Mer 02 Marzo**: Lezione registrata e messa a disposizione su questo sito. Nessuna lezione in presenza.
 - **Gio 03 Marzo**: Lezione registrata e messa a disposizione su questo sito. Nessuna lezione in presenza.
-- **Mer 09 Marzo**: Esercitazione dal vivo, in Aula G50 Edificio RM115. Link Zoom: [clicca qui](https://uniroma1.zoom.us/j/7415323214?pwd=dFFGU1F1VU5kUlBTUFBNSVBZMDdCZz09)
+- **Mer 09 Marzo**: Esercitazione dal vivo, in Aula G50 Edificio RM115. **Link Zoom**: [clicca qui](https://uniroma1.zoom.us/j/7415323214?pwd=dFFGU1F1VU5kUlBTUFBNSVBZMDdCZz09)
 - **Gio 10 Marzo**: Lezione registrata e messa a disposizione su questo sito. Nessuna lezione in presenza.
-- **Mer 16 Marzo**: Esercitazione dal vivo, in Aula G50 Edificio RM115. Link Zoom: [clicca qui](https://uniroma1.zoom.us/j/7415323214?pwd=dFFGU1F1VU5kUlBTUFBNSVBZMDdCZz09)
+- **Mer 16 Marzo**: Esercitazione dal vivo, in Aula G50 Edificio RM115. **Link Zoom**: [clicca qui](https://uniroma1.zoom.us/j/7415323214?pwd=dFFGU1F1VU5kUlBTUFBNSVBZMDdCZz09)
 - **Gio 17 Marzo**: Lezione registrata e messa a disposizione su questo sito. Nessuna lezione in presenza.
 
 Le lezioni successive saranno tutte tenute in presenza, salvo diverse disposizioni da parte dell'Ateneo.
