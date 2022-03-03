@@ -29,7 +29,7 @@ Materiale del corso, 2o semestre a.a. 2021/2022, Dip. di Informatica
 - **Mer 16 Marzo**: Esercitazione dal vivo, in Aula G50 Edificio RM115. **Link Zoom**: [clicca qui](https://uniroma1.zoom.us/j/7415323214?pwd=dFFGU1F1VU5kUlBTUFBNSVBZMDdCZz09), ID riunione: 741 532 3214, Passcode: bKAbP1
 - **Gio 17 Marzo**: Lezione registrata e messa a disposizione su questo sito. Nessuna lezione in presenza.
 
-Le lezioni successive saranno tutte tenute in presenza, salvo diverse disposizioni da parte dell'Ateneo.
+Le lezioni successive saranno tenute dal vivo in modalità mista (sia in presenza che tramite Zoom), salvo diverse disposizioni da parte dell'Ateneo.
 
 ### Lezioni
 
