@@ -31,7 +31,11 @@ Le lezioni successive saranno tenute dal vivo in modalità mista (sia in presenz
 
 ### Lezioni
 
-Link al libro di testo: [pdf](https://people.csail.mit.edu/jsolomon/share/book/numerical_book.pdf) ; [amazon](https://www.amazon.com/Numerical-Methods-Computer-Learning-Graphics/dp/1482251884)
+Link ai libri di testo: 
+
+- [Numerical Algorithms](https://people.csail.mit.edu/jsolomon/share/book/numerical_book.pdf)
+- [Convex Optimization](https://web.stanford.edu/~boyd/cvxbook/bv_cvxbook.pdf)
+- [The Matrix Cookbook](https://www2.imm.dtu.dk/pubdb/edoc/imm3274.pdf)
 
 **Data** | **Argomento** | **Letture** | **Codice & Dati**
 ------------ | ------------- | ------------ | ------------
