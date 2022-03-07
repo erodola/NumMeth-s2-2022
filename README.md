@@ -22,8 +22,6 @@ Materiale del corso, 2o semestre a.a. 2021/2022, Dip. di Informatica
 
 **Per imprevisti problemi logistici, le prime lezioni seguiranno il seguente formato:**
 
-- **Mer 02 Marzo**: Lezione registrata e messa a disposizione su questo sito. Nessuna lezione in presenza.
-- **Gio 03 Marzo**: Lezione registrata e messa a disposizione su questo sito. Nessuna lezione in presenza.
 - **Mer 09 Marzo**: Esercitazione dal vivo, in Aula G50 Edificio RM115. **Link Zoom**: [clicca qui](https://uniroma1.zoom.us/j/7415323214?pwd=dFFGU1F1VU5kUlBTUFBNSVBZMDdCZz09), ID riunione: 741 532 3214, Passcode: bKAbP1
 - **Gio 10 Marzo**: Lezione registrata e messa a disposizione su questo sito. Nessuna lezione in presenza.
 - **Mer 16 Marzo**: Esercitazione dal vivo, in Aula G50 Edificio RM115. **Link Zoom**: [clicca qui](https://uniroma1.zoom.us/j/7415323214?pwd=dFFGU1F1VU5kUlBTUFBNSVBZMDdCZz09), ID riunione: 741 532 3214, Passcode: bKAbP1
@@ -33,7 +31,11 @@ Le lezioni successive saranno tenute dal vivo in modalità mista (sia in presenz
 
 ### Lezioni
 
-Link al libro di testo: [pdf](https://people.csail.mit.edu/jsolomon/share/book/numerical_book.pdf) ; [amazon](https://www.amazon.com/Numerical-Methods-Computer-Learning-Graphics/dp/1482251884)
+Link ai libri di testo: 
+
+- [Numerical Algorithms](https://people.csail.mit.edu/jsolomon/share/book/numerical_book.pdf)
+- [Convex Optimization](https://web.stanford.edu/~boyd/cvxbook/bv_cvxbook.pdf)
+- [The Matrix Cookbook](https://www2.imm.dtu.dk/pubdb/edoc/imm3274.pdf)
 
 **Data** | **Argomento** | **Letture** | **Codice & Dati**
 ------------ | ------------- | ------------ | ------------
