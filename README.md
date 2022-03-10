@@ -41,3 +41,5 @@ Link ai libri di testo:
 ------------ | ------------- | ------------ | ------------
 Mer 02 Mar | Introduzione | [slides](https://github.com/erodola/NumMeth-s2-2022/raw/main/01_intro/01-intro.pdf) ; [video](https://youtu.be/EoPIPTeEGjY) |
 Gio 03 Mar | Preliminari di algebra lineare | [slides](https://github.com/erodola/NumMeth-s2-2022/raw/main/02_linalg/02-linalg.pdf) ; [matrix notes](https://github.com/erodola/NumMeth-s2-2022/raw/main/02_linalg/02b-matrix.pdf) ; [video](https://youtu.be/E02vV2wR888) |
+Mer 09 Mar | Manipolazione di vettori e matrici |  | [notebook](https://colab.research.google.com/github/erodola/NumMeth-s2-2022/blob/main/03_ex1/ex1.ipynb)
+Gio 10 Mar | Regressione polinomiale | [slides](https://github.com/erodola/NumMeth-s2-2022/raw/main/03_regression/03-regression.pdf) ; [video](https://youtu.be/NYmis_xCrK0) |
