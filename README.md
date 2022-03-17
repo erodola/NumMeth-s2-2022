@@ -41,5 +41,5 @@ Mer 02 Mar | Introduzione | [slides](https://github.com/erodola/NumMeth-s2-2022/
 Gio 03 Mar | Preliminari di algebra lineare | [slides](https://github.com/erodola/NumMeth-s2-2022/raw/main/02_linalg/02-linalg.pdf) ; [matrix notes](https://github.com/erodola/NumMeth-s2-2022/raw/main/02_linalg/02b-matrix.pdf) ; [video](https://youtu.be/E02vV2wR888) |
 Mer 09 Mar | Manipolazione di vettori e matrici |  | [notebook](https://colab.research.google.com/github/erodola/NumMeth-s2-2022/blob/main/esercizi/ex1/ex1.ipynb)
 Gio 10 Mar | Regressione polinomiale | [slides](https://github.com/erodola/NumMeth-s2-2022/raw/main/03_regression/03-regression.pdf) ; [video](https://youtu.be/NYmis_xCrK0) |
-Mer 16 Mar | Regressione lineare |  | [notebook](https://colab.research.google.com/github/erodola/NumMeth-s2-2022/blob/main/esercizi/ex2/ex2.ipynb)
+Mer 16 Mar | Regressione lineare | [gradient notes](https://github.com/erodola/NumMeth-s2-2022/raw/main/esercizi/ex2/03b-gradient.pdf) | [notebook](https://colab.research.google.com/github/erodola/NumMeth-s2-2022/blob/main/esercizi/ex2/ex2.ipynb)
 Gio 17 Mar | Regolarizzazione, smoothing e sparsità | [slides](https://github.com/erodola/NumMeth-s2-2022/raw/main/04_regularization/04-regularization.pdf) ; [video](https://youtu.be/jNYJfNPBqLs) |
