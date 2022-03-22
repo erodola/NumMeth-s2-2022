@@ -4,10 +4,8 @@ Materiale del corso, 2o semestre a.a. 2021/2022, Dip. di Informatica
 
 ### News
 
+- **22/03/2022:** I link Zoom per esercitazioni e lezioni teoriche sono cambiati, scorrere in basso per i link corretti!
 - **26/02/2022:** Si prega di scrivere a rodola@di.uniroma1.it per confermare la propria partecipazione al corso. 
-
-<ins>**Leggere in basso per importanti informazioni logistiche sulle prime lezioni!**</ins>
-
 - **20/02/2022:** Il corso avrà inizio il **2 marzo 2022**.
 
 ### Logistica
@@ -20,8 +18,8 @@ Materiale del corso, 2o semestre a.a. 2021/2022, Dip. di Informatica
 
 **Dove:**
 
-- Link zoom per esercitazioni: [clicca qui](https://uniroma1.zoom.us/j/7415323214?pwd=dFFGU1F1VU5kUlBTUFBNSVBZMDdCZz09), ID riunione: 741 532 3214, Passcode: bKAbP1
-- Link zoom per lezioni teoriche: [clicca qui](https://zoom.us/j/4752349941?pwd=U0doeGFLWFFDSWlzWWxvd0JGMDRndz09), ID riunione: 475 234 9941, Passcode: 3K7xrM.
+- Link Zoom per esercitazioni: [clicca qui](https://uniroma1.zoom.us/j/7415323214?pwd=dFFGU1F1VU5kUlBTUFBNSVBZMDdCZz09), ID riunione: 741 532 3214, Passcode: bKAbP1
+- Link Zoom per lezioni teoriche: [clicca qui](https://zoom.us/j/4752349941?pwd=U0doeGFLWFFDSWlzWWxvd0JGMDRndz09), ID riunione: 475 234 9941, Passcode: 3K7xrM.
 
 Aula G50 - Regina Elena - Edificio G (Viale Regina Elena, 295)
 
