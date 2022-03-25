@@ -4,6 +4,7 @@ Materiale del corso, 2o semestre a.a. 2021/2022, Dip. di Informatica
 
 ### News
 
+- **25/03/2022:** Aggiunto un link alle registrazioni delle lezioni live.
 - **22/03/2022:** I link Zoom per esercitazioni e lezioni teoriche sono cambiati, scorrere in basso per i link corretti!
 - **26/02/2022:** Si prega di scrivere a rodola@di.uniroma1.it per confermare la propria partecipazione al corso. 
 - **20/02/2022:** Il corso avrà inizio il **2 marzo 2022**.
@@ -24,6 +25,8 @@ Materiale del corso, 2o semestre a.a. 2021/2022, Dip. di Informatica
 Aula G50 - Regina Elena - Edificio G (Viale Regina Elena, 295)
 
 ### Lezioni
+
+Le registrazioni delle lezioni sono disponibili in [questa cartella](https://drive.google.com/drive/folders/1QQgmr6HDVwy1c7enCEMrZubtbFQxs6Cz?usp=sharing) Google Drive.
 
 Link ai libri di testo: 
 
