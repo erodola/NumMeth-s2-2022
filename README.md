@@ -44,5 +44,5 @@ Mer 16 Mar | Regressione lineare | [gradient notes](https://github.com/erodola/N
 Gio 17 Mar | Regolarizzazione, smoothing e sparsità | [slides](https://github.com/erodola/NumMeth-s2-2022/raw/main/04_regularization/04-regularization.pdf) ; [video](https://youtu.be/jNYJfNPBqLs) |
 Mer 23 Mar | Sparsità e regolarità | | [notebook](https://colab.research.google.com/github/erodola/NumMeth-s2-2022/blob/main/esercizi/ex3/ex3.ipynb)
 Gio 24 Mar | Ortogonalità e decomposizione QR | [slides](https://github.com/erodola/NumMeth-s2-2022/raw/main/05_orthogonal/05-orthogonal.pdf) |
-Mer 30 Mar |  | | 
+Mer 30 Mar | Ortogonalità e proiezioni | | [notebook](https://colab.research.google.com/github/erodola/NumMeth-s2-2022/blob/main/esercizi/ex4/ex4.ipynb)
 Gio 31 Mar | Decomposizione spettrale | [slides](https://github.com/erodola/NumMeth-s2-2022/raw/main/06_spectral/06-spectral.pdf) |
