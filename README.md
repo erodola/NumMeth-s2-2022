@@ -46,3 +46,5 @@ Mer 23 Mar | Sparsità e regolarità | | [notebook](https://colab.research.googl
 Gio 24 Mar | Ortogonalità e decomposizione QR | [slides](https://github.com/erodola/NumMeth-s2-2022/raw/main/05_orthogonal/05-orthogonal.pdf) |
 Mer 30 Mar | Ortogonalità e proiezioni | | [notebook](https://colab.research.google.com/github/erodola/NumMeth-s2-2022/blob/main/esercizi/ex4/ex4.ipynb)
 Gio 31 Mar | Decomposizione spettrale | [slides](https://github.com/erodola/NumMeth-s2-2022/raw/main/06_spectral/06-spectral.pdf) |
+Mer 06 Apr | Decomposizione spettrale | | [notebook](https://colab.research.google.com/github/erodola/NumMeth-s2-2022/blob/main/esercizi/ex5/ex5.ipynb)
+Gio 07 Apr | SVD e PCA | [slides](https://github.com/erodola/NumMeth-s2-2022/raw/main/07_svd/07-svd.pdf) |
