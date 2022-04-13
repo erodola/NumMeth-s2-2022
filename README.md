@@ -4,6 +4,7 @@ Materiale del corso, 2o semestre a.a. 2021/2022, Dip. di Informatica
 
 ### News
 
+- **13/04/2022:** Il giorno 14 Aprile non si terrà lezione in accordo al calendario accademico, per via delle vacanze pasquali.
 - **25/03/2022:** Aggiunto un link alle registrazioni delle lezioni live.
 - **22/03/2022:** I link Zoom per esercitazioni e lezioni teoriche sono cambiati, scorrere in basso per i link corretti!
 - **26/02/2022:** Si prega di scrivere a rodola@di.uniroma1.it per confermare la propria partecipazione al corso. 
@@ -48,3 +49,4 @@ Mer 30 Mar | Ortogonalità e proiezioni | | [notebook](https://colab.research.go
 Gio 31 Mar | Decomposizione spettrale | [slides](https://github.com/erodola/NumMeth-s2-2022/raw/main/06_spectral/06-spectral.pdf) |
 Mer 06 Apr | Decomposizione spettrale | | [notebook](https://colab.research.google.com/github/erodola/NumMeth-s2-2022/blob/main/esercizi/ex5/ex5.ipynb)
 Gio 07 Apr | SVD e PCA | [slides](https://github.com/erodola/NumMeth-s2-2022/raw/main/07_svd/07-svd.pdf) |
+Mer 13 Apr | Fattorizzazione SVD e approssimazione low-rank | | [notebook](https://colab.research.google.com/github/erodola/NumMeth-s2-2022/blob/main/esercizi/ex6/ex6.ipynb)
