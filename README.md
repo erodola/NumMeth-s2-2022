@@ -4,6 +4,7 @@ Materiale del corso, 2o semestre a.a. 2021/2022, Dip. di Informatica
 
 ### News
 
+- **04/05/2022:** Si invitano tutti gli studenti a compilare il questionario OPIS (istruzioni [qui](https://www.uniroma1.it/sites/default/files/field_file_allegati/guided_path_to_access_student_s_opinions_questionnaire_2021_2022.pdf)). Il codice per il corso è IQ1F5CU1.
 - **13/04/2022:** Il giorno 14 Aprile non si terrà lezione in accordo al calendario accademico, per via delle vacanze pasquali.
 - **25/03/2022:** Aggiunto un link alle registrazioni delle lezioni live.
 - **22/03/2022:** I link Zoom per esercitazioni e lezioni teoriche sono cambiati, scorrere in basso per i link corretti!
