@@ -55,3 +55,4 @@ Mer 20 Apr | **Prova di auto-valutazione** | [exam sheet](https://github.com/ero
 Gio 21 Apr | Discesa del gradiente | [slides](https://github.com/erodola/NumMeth-s2-2022/raw/main/08_gradient/08-grad.pdf) |
 Mer 27 Apr | Discesa del gradiente | | [notebook](https://colab.research.google.com/github/erodola/NumMeth-s2-2022/blob/main/esercizi/ex7/ex7.ipynb)
 Mer 04 Mag | | [slides](https://github.com/erodola/NumMeth-s2-2022/raw/main/09_invited/inverse-spectral.pdf) |
+Mer 11 Mag | Laplaciano, mappe funzionali e graph matching | | [notebook](https://colab.research.google.com/github/erodola/NumMeth-s2-2022/blob/main/esercizi/ex8/ex8.ipynb)
