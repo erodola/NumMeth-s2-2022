@@ -4,6 +4,7 @@ Materiale del corso, 2o semestre a.a. 2021/2022, Dip. di Informatica
 
 ### News
 
+- **04/05/2022:** Si invitano tutti gli studenti a compilare il questionario OPIS (istruzioni [qui](https://www.uniroma1.it/sites/default/files/field_file_allegati/guided_path_to_access_student_s_opinions_questionnaire_2021_2022.pdf)). Il codice per il corso è IQ1F5CU1.
 - **13/04/2022:** Il giorno 14 Aprile non si terrà lezione in accordo al calendario accademico, per via delle vacanze pasquali.
 - **25/03/2022:** Aggiunto un link alle registrazioni delle lezioni live.
 - **22/03/2022:** I link Zoom per esercitazioni e lezioni teoriche sono cambiati, scorrere in basso per i link corretti!
@@ -50,4 +51,9 @@ Gio 31 Mar | Decomposizione spettrale | [slides](https://github.com/erodola/NumM
 Mer 06 Apr | Decomposizione spettrale | | [notebook](https://colab.research.google.com/github/erodola/NumMeth-s2-2022/blob/main/esercizi/ex5/ex5.ipynb)
 Gio 07 Apr | SVD e PCA | [slides](https://github.com/erodola/NumMeth-s2-2022/raw/main/07_svd/07-svd.pdf) |
 Mer 13 Apr | Fattorizzazione SVD e approssimazione low-rank | | [notebook](https://colab.research.google.com/github/erodola/NumMeth-s2-2022/blob/main/esercizi/ex6/ex6.ipynb)
-Mer 20 Apr | **Prova di auto-valutazione** | | 
+Mer 20 Apr | **Prova di auto-valutazione** | [exam sheet](https://github.com/erodola/NumMeth-s2-2022/raw/main/esercizi/midterm.pdf) | 
+Gio 21 Apr | Discesa del gradiente | [slides](https://github.com/erodola/NumMeth-s2-2022/raw/main/08_gradient/08-grad.pdf) |
+Mer 27 Apr | Discesa del gradiente | | [notebook](https://colab.research.google.com/github/erodola/NumMeth-s2-2022/blob/main/esercizi/ex7/ex7.ipynb)
+Mer 04 Mag | Guest lecture di Arianna Rampini: "Geometria spettrale inversa" | [slides](https://github.com/erodola/NumMeth-s2-2022/raw/main/09_invited/inverse-spectral.pdf) |
+Mer 11 Mag | Laplaciano, mappe funzionali e graph matching | | [notebook](https://colab.research.google.com/github/erodola/NumMeth-s2-2022/blob/main/esercizi/ex8/ex8.ipynb)
+Gio 12 Mag | Journal club - Mappe funzionali | [slides](https://github.com/erodola/NumMeth-s2-2022/raw/main/10_fmaps/fmaps.pdf) |
