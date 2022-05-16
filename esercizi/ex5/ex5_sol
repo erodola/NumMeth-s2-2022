@@ -1,0 +1,196 @@
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+EX 2:
+
+_, (Xs, ys) = mnist.load_data()
+
+# Filtrare solo le classi contententi 0 e normalizzare
+zero_Xs = Xs[ys == 0, :, :]
+zero_Xs = zero_Xs / np.max(zero_Xs)
+
+# plt.imshow(zero_Xs[0, :, :])
+
+# Reshape-are ogni immagine per farla diventare un vettore
+X = zero_Xs.reshape(-1, 28*28).T
+# Ottenere la media dei punti
+X_mean = np.mean(X, axis=1)[:, np.newaxis]
+# Centrare i punti nell'origine
+X = X - X_mean
+
+# Calcolare la matrice di covarianza
+X_mnist = (X@X.T)
+
+# Calcolare autovalori e autovettori
+evals_mnist, evecs_mnist = np.linalg.eigh(X_mnist)
+
+# plottare le prime 10 direzioni principali
+for i_direction in range(10):
+    # l'iesima direzione principale
+    component = evecs_mnist[:, -(i_direction + 1)]
+    plt.figure()
+    plt.imshow(component.reshape(28, 28))
+    plt.colorbar()
+    
+components = evecs[:,-10:]
+for i in range(10):
+    coeff_vector = np.random.randn(10)
+    new_x = components @ coeff_vector
+
+    plt.figure()
+    plt.imshow(new_x.reshape(28, 28) + X_mean.reshape(28, 28))
+    plt.colorbar()
+    
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+EX 3:
+
+sigma2 = 2
+X = sigma2*np.random.rand(3, 3)
+print(f"X before symmetrization: {X}")
+X_sym = X@X.T
+print(f"X after symmetrization: {X_sym}")
+det_X_sym = np.linalg.det(X_sym)
+
+print(f"Det(X) = { det_X_sym}")
+plt.figure()
+plt.imshow(X_sym)
+
+evals_sym, evecs_sym =  np.linalg.eigh(X_sym)
+
+%matplotlib inline
+ax = plt.figure(figsize=(8, 8)).add_subplot(projection='3d')
+ax.quiver([0,0,0],[0,0,0],[0,0,0],evecs_sym[0,:],evecs_sym[1, :],evecs_sym[2, :],  color='b')
+ax.set_xlim(-1, 1);
+ax.set_ylim(-1, 1);
+ax.set_zlim(-1, 1);
+plt.colorbar()
+
+def fibonacci_sphere(samples=5000):
+    points = []
+    phi = math.pi * (3. - math.sqrt(5.))  # golden angle in radians
+
+    for i in range(samples):
+        y = 1 - (i / float(samples - 1)) * 2  # y goes from 1 to -1
+        radius = math.sqrt(1 - y * y)  # radius at y
+
+        theta = phi * i  # golden angle increment
+
+        x = math.cos(theta) * radius
+        z = math.sin(theta) * radius
+
+        points.append((x, y, z))
+
+    return points
+    
+
+points = fibonacci_sphere()
+points = np.asarray(points)
+
+rayleigh = np.diag(points@X@(points.T))
+
+# Visualizzazione
+fig = plt.figure(figsize=(8, 8))
+ax = plt.axes(projection='3d')
+ax.scatter3D(points[:,0], points[:,1], points[:,2], s=0.5, c=rayleigh)
+#plt.colorbar()
+#ax.scatter3D(x,y,-z, s=0.5, color='b')
+
+ax.quiver([0],[0,],[0,],evecs_sym[0,0],evecs_sym[1, 0],evecs_sym[2, 0],  color=cm.viridis(0.))
+ax.quiver([0],[0,],[0,],evecs_sym[0,1],evecs_sym[1, 1],evecs_sym[2, 1],  color=cm.viridis(0.5))
+ax.quiver([0],[0,],[0,],evecs_sym[0,2],evecs_sym[1, 2],evecs_sym[2, 2],  color=cm.viridis(1.))
+
+ax.set_xlim(-1, 1);
+ax.set_ylim(-1, 1);
+ax.set_zlim(-1, 1);
+
+    
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+EX 4:
+
+def power_iteration(A, steps=10):
+    v = np.random.rand(A.shape[0])
+    interm = [v[:, np.newaxis]]
+    for i in range(steps - 1):
+        w = A @ v
+        v = w / np.linalg.norm(w)
+        interm.append(v[:, np.newaxis])
+    return v, interm
+    
+A = X_pca
+
+
+evec_max, interm = power_iteration(A)
+interm = np.concatenate(interm, axis=1)
+eval_max = evec_max.T@A@evec_max
+
+print(f"evec_max = {evec_max}")
+print(f"evec_max_pca = {evecs_pca[:, -1]}")
+print(f"eval_max = {eval_max}")
+print(f"eval_max_pca = {evals_pca[-1]}")
+
+error = np.linalg.norm(interm - evecs_pca[:, -1][:, np.newaxis], axis=0)
+plt.figure()
+plt.plot(np.arange(10), error)
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+EX 5:
+
+A = X_pca
+
+evec_min, interm = power_iteration(np.linalg.inv(A))
+interm = np.concatenate(interm, axis=1)
+eval_min = evec_min.T@A@evec_min
+
+print(f"evec_min = {evec_min}")
+print(f"evec_min_pca = {evecs_pca[:, 0]}")
+print(f"eval_min = {eval_min}")
+print(f"eval_min_pca = {evals_pca[0]}")
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+EX 6:
+
+A = X_sym
+
+A_inv = np.linalg.inv(A)
+evec_min, _ = power_iteration(A_inv)
+evec_max, _ = power_iteration(A)
+
+eval_min = evec_min.T @ A @ evec_min
+eval_max = evec_max.T @ A @ evec_max
+
+# Grid search su 10 valori intermedi a eval_min e eval_max
+for sigma in range(10):
+    # effettuare lo shift di sigma sulla matrice A
+    A_shifted = #np.linalg.inv(A - sigma*np.eye(A.shape[0]))
+    evec_middle, _ = power_iteration(A_shifted, steps=50)
+    eval_middle = evec_middle.T @ A @ evec_middle
+    print(f"eval_middle = {eval_middle}")
+    if not np.isclose(eval_middle, eval_min) and not np.isclose(eval_middle, eval_max):
+        break
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+EX 7:
+
+def QR_iterations(A, steps=100):
+  for i in range(steps):
+    Q, R = np.linalg.qr(A)
+    A = R @ Q
+  return np.diag(R)
+  
+qr_evals = np.sort(QR_iterations(X_mnist, steps = 10))
+
+# plt.plot(np.sort(np.abs(qr_evals))[-25:])
+# plt.plot(np.sort(np.abs(evals_mnist))[-25:])
+error = np.linalg.norm(np.sort(np.abs(qr_evals)) - np.sort(np.abs(evals_mnist)))
+print(f"L2(qr_evals, evals_mnist) = {error}")
+
+
+qr_evals = np.sort(QR_iterations(X_mnist, steps = 100))
+# plt.plot(np.sort(np.abs(qr_evals))[-25:])
+# plt.plot(np.sort(np.abs(evals_mnist))[-25:])
+error = np.linalg.norm(np.sort(np.abs(qr_evals)) - np.sort(np.abs(evals_mnist)))
+print(f"L2(qr_evals, evals_mnist) = {error}")
+
+
