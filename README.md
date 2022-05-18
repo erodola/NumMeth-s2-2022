@@ -56,4 +56,8 @@ Gio 21 Apr | Discesa del gradiente | [slides](https://github.com/erodola/NumMeth
 Mer 27 Apr | Discesa del gradiente | | [notebook](https://colab.research.google.com/github/erodola/NumMeth-s2-2022/blob/main/esercizi/ex7/ex7.ipynb)
 Mer 04 Mag | Guest lecture di Arianna Rampini: "Geometria spettrale inversa" | [slides](https://github.com/erodola/NumMeth-s2-2022/raw/main/09_invited/inverse-spectral.pdf) |
 Mer 11 Mag | Laplaciano, mappe funzionali e graph matching | | [notebook](https://colab.research.google.com/github/erodola/NumMeth-s2-2022/blob/main/esercizi/ex8/ex8.ipynb)
-Gio 12 Mag | Journal club - Mappe funzionali | [slides](https://github.com/erodola/NumMeth-s2-2022/raw/main/10_fmaps/fmaps.pdf) |
+Gio 12 Mag | Journal club - Mappe funzionali | [paper](https://github.com/erodola/NumMeth-s2-2022/raw/main/10_fmaps/fmaps.pdf) |
+Mer 18 Mag |  | | [notebook - to come]
+Gio 19 Mag |  |  |
+
+**End**
